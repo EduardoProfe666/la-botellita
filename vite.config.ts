@@ -22,14 +22,33 @@ export default defineConfig({
         theme_color: "#ffffff",
         icons: [
           {
-            src: "favicon.ico",
+            src: "64.png",
             sizes: "64x64 32x32 24x24 16x16",
             type: "image/x-icon",
+          },
+          {
+            src: "192.png",
+            sizes: "192x192",
+            type: "image/png",
+          },
+          {
+            src: "512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "maskable",
           },
         ],
         start_url: "/",
         display: "standalone",
         background_color: "#ffffff",
+        scope: "/",
+        orientation: "any",
       },
       workbox: {
         globPatterns: ["**/*.{js,css,html,ico,png,webp}"],

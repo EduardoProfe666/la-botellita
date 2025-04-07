@@ -18,8 +18,6 @@ export function Header() {
       <h1 className="text-7xl font-black mb-4 relative">
         <span className="bg-gradient-to-r from-amber-300 via-yellow-200 to-orange-400 bg-clip-text text-transparent drop-shadow-lg hover:scale-105 transition-transform duration-300 cursor-default relative group">
           La Botellita
-          {/* Glass reflection effect */}
-          <span className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
         </span>
       </h1>
 
