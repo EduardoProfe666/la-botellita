@@ -11,6 +11,7 @@
 - [🎮 Descripción](#-descripción)
 - [✨ Características](#-características)
 - [🚀 Demo](#-demo)
+- [📱 Progressive Web App (PWA)](#-progressive-web-app-pwa)
 - [⚙️ Tecnologías](#️-tecnologías)
 - [🛠️ Instalación](#️-instalación)
 - [🎯 Uso](#-uso)
@@ -29,10 +30,26 @@ La Botellita es una versión moderna y digital del clásico juego de la botella,
 - 📱 Diseño responsivo
 - 🎨 Interfaz moderna con Tailwind CSS
 - ⚡ Rendimiento optimizado con Vite
+- 🌐 Funciona sin conexión (PWA)
+- 📲 Instalable en dispositivos móviles y escritorio
 
 ## 🚀 Demo
 
 ¡Prueba La Botellita ahora! Visita nuestra [Demo en vivo](https://la-botellita.onrender.com)
+
+## 📱 Progressive Web App (PWA)
+
+La Botellita es una Progressive Web App (PWA) que ofrece una experiencia similar a una aplicación nativa:
+
+- 💾 Instalable en dispositivos móviles y escritorio
+- 🔌 Funciona completamente sin conexión
+- 🚀 Carga rápida y rendimiento optimizado
+- 🔄 Actualizaciones automáticas
+
+Para instalar la aplicación:
+1. Visita la [aplicación web](https://la-botellita.onrender.com)
+2. En tu navegador, verás un botón de "Instalar" o un ícono de "+" en la barra de direcciones
+3. Sigue las instrucciones para instalar la app en tu dispositivo
 
 ## ⚙️ Tecnologías
 
